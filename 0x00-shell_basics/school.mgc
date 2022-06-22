@@ -1,2 +1,2 @@
 #!/bin/bas
-file --magic-file school.mgc *
+!:mime SCHOOL
