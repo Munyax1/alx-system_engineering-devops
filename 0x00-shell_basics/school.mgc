@@ -1,2 +1,2 @@
 #!/bin/bas
-file -C -m school.mgc *
+file --magic-file school.mgc *
